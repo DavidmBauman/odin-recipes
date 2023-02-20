@@ -1,0 +1,1 @@
+This is a simple website design for The Odin Project. I'll be demonstrating simple project setup. It will utalize paragraphs,ordered and unordered lists, anchors and alt text, absolute and relative hyperlinks. 
